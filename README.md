@@ -1,4 +1,4 @@
-# AO-Homework13-ECommerceBackEnd
+# E-Commerce Back End
 
 ## Assignment
 Build the backend for an e-commerce site using Express.js and Sequelize to perform tasks on a MySQL database 
