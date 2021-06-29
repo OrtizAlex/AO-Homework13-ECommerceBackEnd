@@ -32,7 +32,11 @@ router.get('/:id', async (req, res) => {
         { 
           model: Tag, 
           through: ProductTag, 
-        }]
+        },
+        { 
+          model: Category
+        },
+      ]
     });
 
    if(!productData){
