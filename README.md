@@ -28,3 +28,5 @@ THEN I am able to successfully create, update, and delete data in my database
 ```
 
 ## Walkthrough
+[Direct Link](https://drive.google.com/file/d/1PssjT-3vODJjLex0EWj81bYKpKXY6px0/view?usp=sharing)
+![Walkthrough](./assets/Walkthrough.gif)
